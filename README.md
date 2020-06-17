@@ -13,4 +13,4 @@ JDK1.8
 
 MYSQL5.7
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0525/140650_cf8ad2cc_528715.png "menu.png")
+![系统截图](https://github.com/aws207/pspay/blob/master/1.png)
